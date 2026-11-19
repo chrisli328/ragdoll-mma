@@ -1,0 +1,218 @@
+{
+ "jab": [
+  {
+   "file": "jab_1.wav",
+   "from": "jab_1",
+   "seed": 6100,
+   "prompt": "TrackType: SFX, a boxing glove, a quick light jab snapping onto a cheek, padded leather glove on skin, tight slap with a short meaty thud, dry close-up, no reverb.",
+   "s": 0.212,
+   "rms_db": -21.0
+  },
+  {
+   "file": "jab_2.wav",
+   "from": "jab_b_1",
+   "seed": 7100,
+   "prompt": "TrackType: SFX, a boxing glove, a fast jab snapping hard onto a cheek, sharp crisp leather slap with a snappy crack, bright and punchy, very close microphone, dry foley studio.",
+   "s": 0.087,
+   "rms_db": -20.4
+  },
+  {
+   "file": "jab_3.wav",
+   "from": "jab_b_3",
+   "seed": 7102,
+   "prompt": "TrackType: SFX, a boxing glove, a fast jab snapping hard onto a cheek, sharp crisp leather slap with a snappy crack, bright and punchy, very close microphone, dry foley studio.",
+   "s": 0.094,
+   "rms_db": -19.4
+  }
+ ],
+ "hook": [
+  {
+   "file": "hook_1.wav",
+   "from": "hook_3",
+   "seed": 6112,
+   "prompt": "TrackType: SFX, a boxing glove, a heavy hook punch thudding into the side of the head, leather glove on flesh and bone, deep meaty thud with a crunchy edge, dry close-up, no reverb.",
+   "s": 0.206,
+   "rms_db": -19.1
+  },
+  {
+   "file": "hook_2.wav",
+   "from": "hook_b_1",
+   "seed": 7130,
+   "prompt": "TrackType: SFX, a boxing glove, a heavy hook punch smashing into the side of a head, loud crunchy leather smack with a meaty thump, bright crack on top, very close microphone, dry foley studio.",
+   "s": 0.34,
+   "rms_db": -20.9
+  },
+  {
+   "file": "hook_3.wav",
+   "from": "hook_f_3",
+   "seed": 7142,
+   "prompt": "TrackType: SFX, a wet leather jacket and a heavy fist, slammed hard into a raw slab of meat, heavy crunchy smack with a crisp crack and a meaty thud, close microphone, dry foley studio.",
+   "s": 0.363,
+   "rms_db": -20.1
+  }
+ ],
+ "ko": [
+  {
+   "file": "ko_1.wav",
+   "from": "ko_2",
+   "seed": 6121,
+   "prompt": "TrackType: SFX, a boxing glove, a huge uppercut smashing into a jaw, a knockout blow, leather glove, sharp jaw bone crack, heavy body thud, close-up in a large indoor arena, short tail.",
+   "s": 0.754,
+   "rms_db": -22.1
+  }
+ ],
+ "block": [
+  {
+   "file": "block_1.wav",
+   "from": "block_b_1",
+   "seed": 7180,
+   "prompt": "TrackType: SFX, a boxing glove and a focus mitt, a punch smacking into a raised padded mitt, firm crisp leather pad pop, bright and tight, very close microphone, dry.",
+   "s": 0.154,
+   "rms_db": -21.0
+  },
+  {
+   "file": "block_2.wav",
+   "from": "block_b_2",
+   "seed": 7181,
+   "prompt": "TrackType: SFX, a boxing glove and a focus mitt, a punch smacking into a raised padded mitt, firm crisp leather pad pop, bright and tight, very close microphone, dry.",
+   "s": 0.099,
+   "rms_db": -20.7
+  }
+ ],
+ "hurt": [
+  {
+   "file": "hurt_1.wav",
+   "from": "hurt_b_3",
+   "seed": 7192,
+   "prompt": "TrackType: SFX, a heavy punch to your own face, landing hard and jolting the head, crunchy smack with a thick thud and a short high ringing in the ears, close and muffled, dry.",
+   "s": 0.251,
+   "rms_db": -20.4
+  },
+  {
+   "file": "hurt_2.wav",
+   "from": "hurt_1",
+   "seed": 6150,
+   "prompt": "TrackType: SFX, a punch heard by the person being hit, a heavy blow landing on your own head, dull muffled thud, low body impact, faint ringing, inside the head, muffled, no room.",
+   "s": 0.364,
+   "rms_db": -20.4
+  }
+ ],
+ "whoosh": [
+  {
+   "file": "whoosh_1.wav",
+   "from": "whoosh_2",
+   "seed": 6131,
+   "prompt": "TrackType: SFX, a fast fist swing, cutting sharply through the air and missing, short air swish with a light cloth sleeve rustle, dry close-up, no reverb.",
+   "s": 0.194,
+   "rms_db": -18.0
+  },
+  {
+   "file": "whoosh_2.wav",
+   "from": "whoosh_1",
+   "seed": 6130,
+   "prompt": "TrackType: SFX, a fast fist swing, cutting sharply through the air and missing, short air swish with a light cloth sleeve rustle, dry close-up, no reverb.",
+   "s": 0.195,
+   "rms_db": -18.0
+  }
+ ],
+ "bell": [
+  {
+   "file": "bell_1.wav",
+   "from": "bell_1",
+   "seed": 6160,
+   "prompt": "TrackType: SFX, a boxing ring bell, struck once with a metal hammer, brass bell, bright ring with a long decay, large indoor arena.",
+   "s": 1.615,
+   "rms_db": -22.5
+  }
+ ],
+ "crowd": [
+  {
+   "file": "crowd_1.wav",
+   "from": "crowd_bed_2",
+   "seed": 6171,
+   "prompt": "TrackType: SFX, an arena crowd, murmuring and chattering steadily between rounds, many distant voices, warm, no whistles, large indoor arena.",
+   "s": 7.6,
+   "rms_db": -18.0
+  }
+ ],
+ "cheer": [
+  {
+   "file": "cheer_1.wav",
+   "from": "crowd_cheer_1",
+   "seed": 6180,
+   "prompt": "TrackType: SFX, an arena crowd, erupting in a loud cheer and gasp after a knockout, thousands of voices, shouts and claps, large indoor arena.",
+   "s": 2.313,
+   "rms_db": -18.0
+  }
+ ],
+ "tick": [
+  {
+   "file": "tick_1.wav",
+   "from": "reel_tick_3",
+   "seed": 6192,
+   "prompt": "TrackType: SFX, Reel tick sound for a casual mobile game, a single tiny crisp wooden click like a prize wheel peg, bright and dry, clean and short, no reverb.",
+   "s": 0.04,
+   "rms_db": -18.0
+  }
+ ],
+ "tile_red": [
+  {
+   "file": "tile_red_1.wav",
+   "from": "tile_red_1",
+   "seed": 6200,
+   "prompt": "TrackType: SFX, Tile landing sound for a casual mobile game, a warm punchy wooden block thock, satisfying and solid, clean and short, no reverb.",
+   "s": 0.14,
+   "rms_db": -19.7
+  }
+ ],
+ "tile_blue": [
+  {
+   "file": "tile_blue_1.wav",
+   "from": "tile_blue_1",
+   "seed": 6210,
+   "prompt": "TrackType: SFX, Tile landing sound for a casual mobile game, a cool bright glassy clack with a soft shimmer, clean and short, no reverb.",
+   "s": 0.159,
+   "rms_db": -18.0
+  }
+ ],
+ "tile_black": [
+  {
+   "file": "tile_black_1.wav",
+   "from": "tile_black_b_1",
+   "seed": 7220,
+   "prompt": "TrackType: SFX, Bad tile landing sound for a casual mobile game, a dull hollow wooden knock with a dark ominous tone, mid pitched, clean and short, no reverb.",
+   "s": 0.163,
+   "rms_db": -20.4
+  }
+ ],
+ "bust": [
+  {
+   "file": "bust_1.wav",
+   "from": "bust_b_3",
+   "seed": 7212,
+   "prompt": "TrackType: SFX, Wrong answer sound for a casual mobile game, a short nasal descending two-note buzzer, cartoon fail, mid pitched, clean and short, no reverb.",
+   "s": 0.327,
+   "rms_db": -18.0
+  }
+ ],
+ "sting": [
+  {
+   "file": "sting_1.wav",
+   "from": "punch_sting_3",
+   "seed": 6252,
+   "prompt": "TrackType: SFX, Power punch release sound for a casual mobile game, a bright rising brass stab with a big punchy drum hit, triumphant, clean and short, no reverb.",
+   "s": 0.745,
+   "rms_db": -19.4
+  }
+ ],
+ "dizzy": [
+  {
+   "file": "dizzy_1.wav",
+   "from": "dizzy_1",
+   "seed": 6270,
+   "prompt": "TrackType: SFX, Dizzy stun sound for a casual mobile game, cartoon little birds tweeting and circling around a knocked-out boxer's head, cute and light, clean, no reverb.",
+   "s": 0.837,
+   "rms_db": -21.6
+  }
+ ]
+}
